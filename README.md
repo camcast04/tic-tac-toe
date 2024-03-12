@@ -1,2 +1,4 @@
 # tic-tac-toe
-a tic-tac-toe game 
+
+Check out my app here:
+https://camic-tic-tac-toe.netlify.app
